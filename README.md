@@ -9,7 +9,7 @@
 支持情况：
 
 >- [x] Linux
->- [x] widnows
+>- [x] Windows
 
 # 截图
 
